@@ -117,11 +117,13 @@ To download and install Kurdish pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ku_tr/ku_TR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ku_tr/`
 
-See this screenshot
+See this screenshot:
 
 ![Kurdish pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **ku_tr**
 
 #### Step 2: Flush cache
 
