@@ -1,6 +1,6 @@
-"All","All",module,Magento_AdminGws
-"None","None",module,Magento_AdminGws
-"Allowed Scopes","Allowed Scopes",module,Magento_AdminGws
+"All","هەموو",module,Magento_AdminGws
+"None","هیچ کام",module,Magento_AdminGws
+"Allowed Scopes","مەودای ڕێگەپێدراو",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","You need more permissions to apply some of the rule updates.",module,Magento_AdminGws
 "Please assign this entity to a store view.","Please assign this entity to a store view.",module,Magento_AdminGws
@@ -87,7 +87,7 @@
 "Back","Back",module,Magento_AdvancedCheckout
 "Add Products","Add Products",module,Magento_AdvancedCheckout
 "Update Items and Quantities","Update Items and Quantities",module,Magento_AdvancedCheckout
-"Are you sure you want to clear your cart?","Are you sure you want to clear your cart?",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","دڵنیایت کە دەتەوێت سەبەتەکە بەتاڵ بکەیتەوە؟",module,Magento_AdvancedCheckout
 "Clear my shopping cart","Clear my shopping cart",module,Magento_AdvancedCheckout
 "Add selections to my cart","Add selections to my cart",module,Magento_AdvancedCheckout
 "Cancel","Cancel",module,Magento_AdvancedCheckout
@@ -229,13 +229,13 @@
 "The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
 "The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
 "The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
-"Please correct the data sent.","Please correct the data sent.",module,Magento_AdvancedPricingImportExport
+"Please correct the data sent.","تکایە زانیاری ناردراوەکان ڕاست بکەنەوە.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","There are no product types available for export",module,Magento_AdvancedPricingImportExport
 "%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
-"Sales Rule","Sales Rule",module,Magento_AdvancedSalesRule
-"Index sales rule","Index sales rule",module,Magento_AdvancedSalesRule
+"Sales Rule","یاساکانی فروشتن",module,Magento_AdvancedSalesRule
+"Index sales rule","نیشاندەری یاساکانی فروشتن",module,Magento_AdvancedSalesRule
 "Related Search Terms","Related Search Terms",module,Magento_AdvancedSearch
 "Add New Search Term","Add New Search Term",module,Magento_AdvancedSearch
 "button_label","button_label",module,Magento_AdvancedSearch
@@ -250,18 +250,18 @@
 "Search Suggestions Count","Search Suggestions Count",module,Magento_AdvancedSearch
 "Show Results Count for Each Suggestion","Show Results Count for Each Suggestion",module,Magento_AdvancedSearch
 "Related search terms","Related search terms",module,Magento_AdvancedSearch
-"Did you mean","Did you mean",module,Magento_AdvancedSearch
+"Did you mean","مەبەستت ئەوەیە",module,Magento_AdvancedSearch
 "ID","ID",module,Magento_AdvancedSearch
 "Search Query","Search Query",module,Magento_AdvancedSearch
 "Store","Store",module,Magento_AdvancedSearch
-"Results","Results",module,Magento_AdvancedSearch
+"Results","ئەنجامەکان",module,Magento_AdvancedSearch
 "Uses","Uses",module,Magento_AdvancedSearch
 "Redirect URL","Redirect URL",module,Magento_AdvancedSearch
 "Suggested Term","Suggested Term",module,Magento_AdvancedSearch
-"Yes","Yes",module,Magento_AdvancedSearch
-"No","No",module,Magento_AdvancedSearch
+"Yes","بەڵێ",module,Magento_AdvancedSearch
+"No","نا",module,Magento_AdvancedSearch
 "Action","Action",module,Magento_AdvancedSearch
-"Edit","Edit",module,Magento_AdvancedSearch
+"Edit","دەستکاریکردن",module,Magento_AdvancedSearch
 "Synonym","Synonym",module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","RPC call failed, connection timed out after %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Message has been rejected: %1",module,Magento_Amqp
@@ -473,10 +473,10 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Expiration Date","Expiration Date",module,Magento_AuthorizenetAcceptjs
 "Card Verification Number","Card Verification Number",module,Magento_AuthorizenetAcceptjs
 "Authorize.Net","Authorize.Net",module,Magento_AuthorizenetAcceptjs
-"Enabled","Enabled",module,Magento_AuthorizenetAcceptjs
+"Enabled","چالاک کراوە",module,Magento_AuthorizenetAcceptjs
 "Basic Authorize.Net Settings","Basic Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
-"Title","Title",module,Magento_AuthorizenetAcceptjs
-"Environment","Environment",module,Magento_AuthorizenetAcceptjs
+"Title","سەردێڕ",module,Magento_AuthorizenetAcceptjs
+"Environment","ژینگە",module,Magento_AuthorizenetAcceptjs
 "Payment Action","Payment Action",module,Magento_AuthorizenetAcceptjs
 "API Login ID","API Login ID",module,Magento_AuthorizenetAcceptjs
 "Transaction Key","Transaction Key",module,Magento_AuthorizenetAcceptjs
@@ -1661,18 +1661,18 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 """option_id"" and ""parent_id"" values should be specified","""option_id"" and ""parent_id"" values should be specified",module,Magento_BundleGraphQl
 """sku"" value should be specified","""sku"" value should be specified",module,Magento_BundleGraphQl
 "Unique constraint violation found","Unique constraint violation found",module,Magento_BundleStaging
-"Cancel","Cancel",module,Magento_BundleStaging
+"Cancel","هەڵوەشاندنەوە",module,Magento_BundleStaging
 "Add Selected Products","Add Selected Products",module,Magento_BundleStaging
 "Add Products to Option","Add Products to Option",module,Magento_BundleStaging
 "Select...","Select...",module,Magento_BundleStaging
 "Status","Status",module,Magento_BundleStaging
 "ID","ID",module,Magento_BundleStaging
 "Thumbnail","Thumbnail",module,Magento_BundleStaging
-"Name","Name",module,Magento_BundleStaging
-"Type","Type",module,Magento_BundleStaging
+"Name","ناو",module,Magento_BundleStaging
+"Type","جۆر",module,Magento_BundleStaging
 "SKU","SKU",module,Magento_BundleStaging
 "Quantity","Quantity",module,Magento_BundleStaging
-"Price","Price",module,Magento_BundleStaging
+"Price","نرخ",module,Magento_BundleStaging
 "Always","Always",module,Magento_Captcha
 "After number of attempts to login","After number of attempts to login",module,Magento_Captcha
 "Provided form does not exist","Provided form does not exist",module,Magento_Captcha
@@ -16223,73 +16223,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Summary",theme,frontend\Magento\blank
-"Account Dashboard","Account Dashboard",theme,frontend\Magento\blank
-"Account Information","Account Information",theme,frontend\Magento\blank
-"Address Book","Address Book",theme,frontend\Magento\blank
-"Menu","Menu",theme,frontend\Magento\blank
-"Account","Account",theme,frontend\Magento\blank
-"Settings","Settings",theme,frontend\Magento\blank
-"Now Shopping by","Now Shopping by",theme,frontend\Magento\luma
-"Previous","Previous",theme,frontend\Magento\luma
-"Remove","Remove",theme,frontend\Magento\luma
-"Remove This Item","Remove This Item",theme,frontend\Magento\luma
-"Shop By","Shop By",theme,frontend\Magento\luma
-"Clear All","Clear All",theme,frontend\Magento\luma
-"Shopping Options","Shopping Options",theme,frontend\Magento\luma
-"Welcome to %store_name","Welcome to %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Welcome to %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend\Magento\luma
-"Email:","Email:",theme,frontend\Magento\luma
-"Password:","Password:",theme,frontend\Magento\luma
-"Password you set when creating account","Password you set when creating account",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend\Magento\luma
-"Quick Checkout","Quick Checkout",theme,frontend\Magento\luma
-"Proceed through checkout faster","Proceed through checkout faster",theme,frontend\Magento\luma
-"Order Status","Order Status",theme,frontend\Magento\luma
-"Check the status of orders","Check the status of orders",theme,frontend\Magento\luma
-"Manage Addresses","Manage Addresses",theme,frontend\Magento\luma
-"Store alternative addresses","Store alternative addresses",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend\Magento\luma
-"Order History","Order History",theme,frontend\Magento\luma
-"View past orders","View past orders",theme,frontend\Magento\luma
-"Footer","Footer",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend\Magento\luma
-"Billing Info","Billing Info",theme,frontend\Magento\luma
-"Shipping Info","Shipping Info",theme,frontend\Magento\luma
-"Payment Method","Payment Method",theme,frontend\Magento\luma
-"Shipping Method","Shipping Method",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend\Magento\luma
-"Account Dashboard","Account Dashboard",theme,frontend\Magento\luma
-"Address Book","Address Book",theme,frontend\Magento\luma
-"Account Information","Account Information",theme,frontend\Magento\luma
-"About Us","About Us",theme,frontend\Magento\luma
-"Customer Service","Customer Service",theme,frontend\Magento\luma
-"My Account","My Account",theme,frontend\Magento\luma
+"Summary","Summary",theme,frontend/Magento/blank
+"Account Dashboard","Account Dashboard",theme,frontend/Magento/blank
+"Account Information","Account Information",theme,frontend/Magento/blank
+"Address Book","Address Book",theme,frontend/Magento/blank
+"Menu","Menu",theme,frontend/Magento/blank
+"Account","Account",theme,frontend/Magento/blank
+"Settings","Settings",theme,frontend/Magento/blank
+"Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
+"Previous","Previous",theme,frontend/Magento/luma
+"Remove","Remove",theme,frontend/Magento/luma
+"Remove This Item","Remove This Item",theme,frontend/Magento/luma
+"Shop By","Shop By",theme,frontend/Magento/luma
+"Clear All","Clear All",theme,frontend/Magento/luma
+"Shopping Options","Shopping Options",theme,frontend/Magento/luma
+"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Magento/luma
+"Email:","Email:",theme,frontend/Magento/luma
+"Password:","Password:",theme,frontend/Magento/luma
+"Password you set when creating account","Password you set when creating account",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
+"Quick Checkout","Quick Checkout",theme,frontend/Magento/luma
+"Proceed through checkout faster","Proceed through checkout faster",theme,frontend/Magento/luma
+"Order Status","Order Status",theme,frontend/Magento/luma
+"Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
+"Manage Addresses","Manage Addresses",theme,frontend/Magento/luma
+"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
+"Order History","Order History",theme,frontend/Magento/luma
+"View past orders","View past orders",theme,frontend/Magento/luma
+"Footer","Footer",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
+"Billing Info","Billing Info",theme,frontend/Magento/luma
+"Shipping Info","Shipping Info",theme,frontend/Magento/luma
+"Payment Method","Payment Method",theme,frontend/Magento/luma
+"Shipping Method","Shipping Method",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
+"Address Book","Address Book",theme,frontend/Magento/luma
+"Account Information","Account Information",theme,frontend/Magento/luma
+"About Us","About Us",theme,frontend/Magento/luma
+"Customer Service","Customer Service",theme,frontend/Magento/luma
+"My Account","My Account",theme,frontend/Magento/luma
 "Backup options","Backup options",lib,web
 "Warning","Warning",lib,web
 "Cancel","Cancel",lib,web
